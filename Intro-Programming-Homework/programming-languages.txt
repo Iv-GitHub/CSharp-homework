@@ -1,0 +1,24 @@
+ The most popular programming languages. 
+ How similar are they to C#?
+ How do they differ from C#?
+
+(1)Java
+Java and C# are similar programming languages that are statically, strongly, and manifestly typed, 
+both are class-based object-oriented, both are designed with semi-interpretation or runtime compilation in mind, 
+both use garbage-collection, and both are "curly brace languages" like C and C++.
+C# supports more features than Java which to some extent is also evident in the syntax which specifies more keywords and more grammar 
+(2)C and (3)C++
+C - an older programming language that is described as Hands-on. As the programmer you must tell the program to do everything. Also this language will let you do almost anything. It does not support object orriented code. Thus no classes. 
+C++ - an extention language per se of C. In C code ++ means increment 1. Thus C++ is better than C. It allows for highly controlled object orriented code. Once again a very hands on language that goes into MUCH detail. 
+C# is directly related to C and C++.
+C and C++ shares several syntax, library and functionality. In addition structures, unions, arrays, strings and pointers are most important and similar functionality for both languages. 
+C# inherits most of its operators, keywords, and statements directly from C++. Enums are clearly a meaningful concept in C++. Finally I can clearly say that C# is the first component-oriented language in the C/C++ family. 
+C# constructors are very similar with C++ constructors. 
+Like C++, methods are non-virtual by default, but can be marked as virtual.
+C# - Full object orriented code resembling the style of C/C++ code. This is really closer to JAVA. C# is the latest version of the C style languages and is very good for developing web applications.
+(4)Python
+Python is better in readability, C# has more consistent syntax.Python is implemented as an interpreted language while C# is compiled. Both this implementations have their benefits and drawbacks. 
+(5)PHP
+C# is just a programming language as PHP is, but with the difference that C# targets a platform (.NET) that also accepts other languages, including PHP
+PHP generates directly the HTML / JS / CSS used to compose the page and produce the end HTML page directly from the code or if you are smart enough using things like templates engines. You must know HTML at least to be able to develop PHP web sites.
+
